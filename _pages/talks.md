@@ -121,7 +121,7 @@ This list contains every academic event at which I have spoken in my capacity as
   </thead>
   <tbody>
     <tr>
-      <td>[upcoming] Distinction Without a Difference, Difference Without a Distinction? Legal Confrontations with ‘the Other’ in <i>Planet of the Apes</i> (1968), Colonial Spain, and the Rights of Nature Debate</td>
+      <td>Distinction Without a Difference, Difference Without a Distinction? Legal Confrontations with ‘the Other’ in <i>Planet of the Apes</i> (1968), Colonial Spain, and the Rights of Nature Debate</td>
       <td>Law and Popular Culture Roundtable VII</td>
       <td>18 June 2025</td>
       <td>Maastricht (The Netherlands)</td>
@@ -129,7 +129,7 @@ This list contains every academic event at which I have spoken in my capacity as
     </tr>
     <tr>
       <td>A Classification Unearthed: The History of Palaeontological Objects as Cultural Property in International Law</td>
-      <td>International Symposium on Heritage in War and Peace: Tangible and Intangible Cultural Heritage through Past, Present and Future</td>
+      <td>Third International Symposium on Heritage in War and Peace: Tangible and Intangible Cultural Heritage through Past, Present and Future</td>
       <td>19 January 2024</td>
       <td>Forlì (Italy)</td>
       <td>winner of the first prize for the best contribution to the Symposium</td>
