@@ -22,6 +22,6 @@ nav_order: 6
   <li>anything else which could be interesting for your audience.</li>
 </ul>
 
-<p>If you would like to work with me in any of these capacities, please do not hesitate to send me an <a href="mailto:paulphilippstewens@gmail.com">e-mail</a> or reach out to me via <a href="https://www.linkedin.com/in/Paul%20Stewens">LinkedIn</a>!</p>
+<p>If you would like to work with me in any of these capacities, please do not hesitate to send me an <a href="mailto:paul.stewens@pm.me">e-mail</a> or reach out to me via <a href="https://www.linkedin.com/in/Paul%20Stewens">LinkedIn</a>!</p>
     </div>
 </div>
