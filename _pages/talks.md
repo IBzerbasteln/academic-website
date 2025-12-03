@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks and conferences
-description: 
+description:
 keywords: dinosaur-law, cultural-artifacts, paleontology, law-and-paleontology, fossil-law, restitution, repatriation, research, academic, speaker, lecture, lecturer, talk, presentation, TED, TEDx, ted-talk, conference, panel, panelist, moderator, stewens
 nav: true
 nav_order: 3
@@ -25,6 +25,7 @@ tabs: true
 ---
 
 # highlights
+
 <br>
 <h2 id="tedx-talk">TEDx Talk "Your Favourite Dinosaur Might Be Stolen"</h2>
 During my master's at the Geneva Graduate Institute, I got to be part of the **2023 TED<sup>x</sup>GVAGrad conference**, titled ["Rethink Realities"](https://tedxgvagrad.com/2023-rethink-realities). Upon a successful application to be a speaker for the [student corner](https://tedxgvagrad.com/2023-student-speakers), I not only got the chance to speak to an auditorium full of people to dinosaur theft, but also public speaking and speechwriting training beforehand to make sure I could do so as effectively as possible.
@@ -44,14 +45,14 @@ The result, my talk **"Your Favourite Dinosaur Might Be Stolen"**, has been view
 
 <br>
 <h2 id="mnhn-lecture">lecture "A Tale of Two Museums"</h2>
-In [June 2025](/news/lecture-mnhn/), I was fortunate enough to be part of the seminar "*Muséums et enjeux contemporains. Quels discours sur les collections d'histoire naturelle ?*". For six months, this series of lectures brought different researchers to the *Muséum National d'Histoire Naturelle* in Paris to speak about issues such as provenance research, colonial legacies, and restitution in the context of natural history museums. In about an hour, I explain why restitution is not as common of a topic in the natural history world, and why this should change. I discuss the relevant legal framework, its potential and shortcomings, and lots of examples of natural history objects or collections of problematic provenance. 
+In [June 2025](/news/lecture-mnhn/), I was fortunate enough to be part of the seminar "*Muséums et enjeux contemporains. Quels discours sur les collections d'histoire naturelle ?*". For six months, this series of lectures brought different researchers to the *Muséum National d'Histoire Naturelle* in Paris to speak about issues such as provenance research, colonial legacies, and restitution in the context of natural history museums. In about an hour, I explain why restitution is not as common of a topic in the natural history world, and why this should change. I discuss the relevant legal framework, its potential and shortcomings, and lots of examples of natural history objects or collections of problematic provenance.
 
 The organisers were kind enough to record the lecture and the Q&A, so it's here for you to watch. I hope you will find it insightful---and if your question wasn't asked during the Q&A, please [send me an e-mail](mailto:paul.stewens@maastrichtuniversity.nl) and I'll be happy to discuss it with you!
 
-
-{% include video.liquid path="assets/video/mnhn-lecture.mp4" class="img-fluid rounded z-depth-1" controls=true %} 
+{% include video.liquid path="assets/video/mnhn-lecture.mp4" class="img-fluid rounded z-depth-1" controls=true %}
 
 ---
+
 <br>
 
 # full list
@@ -73,16 +74,34 @@ This list contains every academic event at which I have spoken in my capacity as
   </thead>
   <tbody>
     <tr>
+      <td>Law and Palaeontology:​ Of stolen mosasaurs, copyrighted T. rexes, ​and an ambiguous dwarf goat (with Dr Jesse Hennekam)</td>
+      <td>26 November 2025</td>
+      <td>Maastricht University (NL)</td>
+      <td>European Law School elective "Law and Art", taught by Prof. Lars van Vliet and Dr Anna de Jong</td>
+    </tr>
+    <tr>
+      <td>Aux marges de la notion d'humanité : fossiles et restes humains</td>
+      <td>2 October 2025</td>
+      <td>Art-Law Centre, University of Geneva (CH)</td>
+      <td>Lalive Merryman Lecture 2025</td>
+    </tr>
+    <tr>
+      <td>Les contextes diverses des restes humains : exploration d'une ontologie floue</td>
+      <td>27 September 2025</td>
+      <td>University of Geneva (CH)</td>
+      <td>séminaire de recherche avancée en archéologie "Les restes humains en archéologie et anthropologie: Gestions logistiques, scientifiques, éthiques et légales", taught by Dr Claudine Abegg</td>
+    </tr>
+    <tr>
       <td>Law in geoscience research</td>
       <td>12 June 2025</td>
-      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg</td>
+      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg (DE)</td>
       <td>master course "Ethics and Law in Geoscience Research" taught by Dr Emma M. Dunne</td>
     </tr>
     <tr>
       <td>A Tale of Two Museums: Introducing the Issue of Restitution to Natural History Museums</td>
       <td>3 June 2025</td>
-      <td>Museum National d'Histoire Naturelle (Paris)</td>
-      <td>seminar "<i>Muséums et enjeux contemporains</i>"</td>
+      <td>Museum National d'Histoire Naturelle (Paris, FR)</td>
+      <td>seminar "Muséums et enjeux contemporains"</td>
     </tr>
     <tr>
       <td>Distinction Without a Difference? Natural vs. Cultural Heritage in the Spotlight of Restitution Claims</td>
@@ -99,7 +118,7 @@ This list contains every academic event at which I have spoken in my capacity as
     <tr>
       <td>Law in geoscience research</td>
       <td>22 June 2023</td>
-      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg</td>
+      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg (DE)</td>
       <td>master course "Ethics and Law in Geoscience Research" taught by Dr Emma M. Dunne and Dr Danijela Dimitrijevic</td>
     </tr>
   </tbody>
@@ -124,40 +143,39 @@ This list contains every academic event at which I have spoken in my capacity as
       <td>Distinction Without a Difference, Difference Without a Distinction? Legal Confrontations with ‘the Other’ in <i>Planet of the Apes</i> (1968), Colonial Spain, and the Rights of Nature Debate</td>
       <td>Law and Popular Culture Roundtable VII</td>
       <td>18 June 2025</td>
-      <td>Maastricht (The Netherlands)</td>
+      <td>Maastricht (NL)</td>
       <td>with Paula Lozada Alfaro</td>
     </tr>
     <tr>
       <td>A Classification Unearthed: The History of Palaeontological Objects as Cultural Property in International Law</td>
       <td>Third International Symposium on Heritage in War and Peace: Tangible and Intangible Cultural Heritage through Past, Present and Future</td>
       <td>19 January 2024</td>
-      <td>Forlì (Italy)</td>
+      <td>Forlì (IT)</td>
       <td>winner of the first prize for the best contribution to the Symposium</td>
     </tr>
     <tr>
       <td>Law Will Find A Way: Legal Research at the Intersection with Palaeontology</td>
       <td>63. Junge Tagung Öffentliches Recht: Interaktionen: Internationalität, Intra- und Interdisziplinarität</td>
       <td>20 July 2023</td>
-      <td>Hamburg (Germany)</td>
+      <td>Hamburg (DE)</td>
       <td>with Dr Emma M. Dunne and Dr Nussaïbah Raja</td>
     </tr>
         <tr>
       <td>Natural Language Processing in Genocide Research – Resources, Opportunities, and Limitations of an Emerging Field</td>
       <td>16th Biennial Meeting of the International Association of Genocide Scholars: Authoritarianism & Genocide, Narratives of Exclusion</td>
       <td>10-14 July 2023</td>
-      <td>Barcelona (Spain)</td>
+      <td>Barcelona (ES)</td>
       <td>with Dr Miriam Schirmer; in-person participation cancelled due to lack of funding</td>
     </tr>
     <tr>
       <td>Beyond the Classroom: On the Value of International Law Blogs for Students</td>
       <td>Opening Access, Closing the Knowledge Gap? International Legal Scholarship Going Online</td>
       <td>9 September 2022</td>
-      <td>Max Planck Institute for Comparative Public Law and International Law, Heidelberg (Germany)</td>
+      <td>Max Planck Institute for Comparative Public Law and International Law, Heidelberg (DE)</td>
       <td></td>
     </tr>
   </tbody>
 </table>
-
 
 {% endtab %}
 
@@ -169,14 +187,14 @@ This list contains every academic event at which I have spoken in my capacity as
       <th>Title</th>
       <th>Date</th>
       <th>Place</th>
-      <th>Setting</th>
+      <th>Context</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>A Classification Unearthed: The History of Palaeontological Objects as Cultural Property in International Law</td>
       <td>7 May 2025</td>
-      <td>Maastricht University</td>
+      <td>Maastricht University (NL)</td>
       <td>Graduate School of Law lunch lecture series</td>
     </tr>
     <tr>
@@ -188,7 +206,7 @@ This list contains every academic event at which I have spoken in my capacity as
       <tr>
       <td>Becoming a Palaeontolawgist: My Journey Into an Odd Corner of the Law</td>
       <td>15 June 2022</td>
-      <td>Maastricht University</td>
+      <td>Maastricht University (NL)</td>
       <td>Meeting of the Department of Criminal Law and Criminology</td>
     </tr>
   </tbody>
@@ -209,16 +227,22 @@ This list contains every academic event at which I have spoken in my capacity as
   </thead>
   <tbody>
     <tr>
+      <td>Ethics of Loaning: Strengthening the Discourse on Restitution in Uganda</td>
+      <td>Panelist</td>
+      <td>8 October 2025</td>
+      <td>Goethe-Zentrum Kampala (UA) - online</td>
+    </tr>
+    <tr>
       <td>The Sublime, Law and Justice (Hugo and the Law)</td>
       <td>Moderator</td>
       <td>8 May 2025</td>
-      <td>Maastricht University</td>
+      <td>Maastricht University (NL)</td>
     </tr>
     <tr>
       <td>Human Rights Violations in Myanmar: Accountability and Beyond</td>
       <td>Panelist</td>
       <td>4 May 2023</td>
-      <td>Geneva Graduate Institute</td>
+      <td>Geneva Graduate Institute (CH)</td>
     </tr>
   </tbody>
 </table>
