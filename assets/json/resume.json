@@ -10,7 +10,8 @@
       "city": "Maastricht",
       "countryCode": "NL",
       "region": "Limburg"
-    }
+    },
+    "summary": "PhD candidate in law, studying the legal regulation of the extraction, transfer, and ownership of palaeontological objects"
   },
   "education": [
     {
@@ -81,6 +82,14 @@
       "url": "https://www.maastrichtuniversity.nl/pp-stewens",
       "startDate": "2025-01-01",
       "endDate": "Present"
+    },
+    {
+      "name": "University of Geneva – Art-Law Centre",
+      "position": "Lalive Merryman Fellow in Art and Cultural Property Law",
+      "url": "https://art-law.org/recherche/lalivemerryman",
+      "startDate": "2025-09-22",
+      "endDate": "2025-10-17",
+      "summary": "Four-week research stay as part of the Pierre Lalive and John H. Merryman Fellowship in Art and Cultural Property Law; research about hominin fossils; two public lectures in French; networking with local researches in law, archaeology, and palaeontology."
     },
     {
       "name": "Canvas Art Law",
@@ -267,7 +276,7 @@
       "fluency": "A2",
       "icon": "fa-solid fa-language"
     },
-        {
+    {
       "language": "Russian",
       "fluency": "A2",
       "icon": "fa-solid fa-language"
