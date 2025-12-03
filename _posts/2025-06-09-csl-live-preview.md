@@ -126,7 +126,7 @@ Be that as it may, is this setup as convenient as the proprietary citation style
 
 > ##### **AI Disclaimer**
 > 
-> I used [Le Chat](https://chat.mistral.ai/), a European AI chatbot developed by Mistral, to build this tool. IN all honesty: I wouldn't have been capable to come up with all of it myself. Nevertheless, I do, fundamentally at least, understand the setup and its different components. I have not used generative AI to write this post. If you're interested in replication, here is my **initial prompt**: 
+> I used [Le Chat](https://chat.mistral.ai/), a European AI chatbot developed by Mistral, to build this tool. In all honesty: I wouldn't have been capable to come up with all of it myself. Nevertheless, I do, fundamentally at least, understand the setup and its different components. I have not used generative AI to write this post. If you're interested in replication, here is my **initial prompt**: 
 > 
 > "Pretend you're a programmer. I need help with the following issue. I'm working on a citation style in .csl format in VS Code. I want to use the .csl style to convert a .md file to .docx using pandoc. My problem is that every time I make changes to the .csl file, I need to to execute a new pandoc command, open the .docx file again, and check whether my citations are accurately rendered. I would like to have a live preview (in HTML) of how my my citations are rendered under the current version of the citation style in VS Code. The output should be HTML and change every time I make changes to the .csl file and save them. Brainstorm ideas how this could be achieved."
 
