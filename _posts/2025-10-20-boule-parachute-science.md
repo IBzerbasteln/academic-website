@@ -7,7 +7,7 @@ tags: fossil-trafficking France research-ethics
 keywords: parachute-science, scientific-colonialism, colonialism, ethics, palaeoanthropology, paleoanthropology, anthropology, paleontology, palaeontology, neanderthal, moustier, boule, marcellin, skull, virchow, germany, france, woke, wokeism, hominin, hominid
 categories: fossil-law
 thumbnail: assets/img/boule-frontispiece.png
-og_image: assets/img/boule-frontispiece.png
+og_image: https://paul-stewens.com/assets/img/boule-frontispiece.png
 tabs: true
 related_posts: false
 ---

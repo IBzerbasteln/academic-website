@@ -7,7 +7,7 @@ tags: fossil-trafficking fossil-restitution Brazil Germany
 keywords: dinosaur-law, fossil-law, paleontology, fossil, fossil-trafficking, irritator, ubirajara, irritatorbelongstobr, ubirajarabelongstobr, restitution, decolonization, decolonizescience
 categories: fossil-law
 thumbnail: assets/img/irritator-belongs-to-brazil.jpg
-og_image: assets/img/irritator-belongs-to-brazil.jpg
+og_image: https://paul-stewens.com/assets/img/irritator-belongs-to-brazil.jpg
 featured: false
 related_posts: false
 related_publications: false
@@ -22,8 +22,6 @@ The case of "_Ubirajara jubatus_," a small Brazilian dinosaur which had been unl
 ## Discovering and debating _Irritator_
 
 <p>I've covered the cases of <i>Ubirajara jubatus</i> and <i>Irritator challengeri</i> in-depth in an <a href="https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/ubirajara-and-irritator-belong-to-brazil-achieving-fossil-returns-under-german-private-law/816DF6AE097FA871CEA51F5A0FC8821F">article</a> published in 2023; here's a TL;DR version of the background to the current repatriation controversy. The holotype specimen of <i>Irritator challengeri</i> left Brazil some time before 1990 and acquired by the <i>Staatliches Museum für Naturkunde Stuttgart</i> (SMNS) in 1991. When describing the new genus and species in 1996, the <a href="https://www.lyellcollection.org/doi/abs/10.1144/gsjgs.153.1.0005">authors</a> disclosed that the fossil had been artificially altered---causing an irritation to them after which they named the genus. In May 2023, a <a href="https://palaeo-electronica.org/content/2023/3821-%C3%A2%E2%82%AC%C2%A6">study</a> reassessing the fossil sparked outrage: its ethics statement claimed that the fossil had been lawfully exported and subsequently become property of the state of Baden-Württemberg. Under the #IrritatorBelongstoBR, scientists and the general public, predominantly from Brazil, advocated for the return of the holotype specimen to Brazil.</p>
-
-I've covered the cases of "_Ubirajara jubatus_" and _Irritator challengeri_ in-depth in an [article](https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/ubirajara-and-irritator-belong-to-brazil-achieving-fossil-returns-under-german-private-law/816DF6AE097FA871CEA51F5A0FC8821F) published in 2023; here's a TL;DR version of the background to the current repatriation controversy. The holotype specimen of _Irritator challengeri_ left Brazil some time before 1990 and acquired by the _Staatliches Museum für Naturkunde Stuttgart_ (SMNS) in 1991. When describing the new genus and species in 1996, the [authors](https://www.lyellcollection.org/doi/abs/10.1144/gsjgs.153.1.0005) disclosed that the fossil had been artificially altered---causing an irritation to them after which they named the genus. In May 2023, a [study](https://palaeo-electronica.org/content/2023/3821-%C3%A2%E2%82%AC%C2%A6) reassessing the fossil sparked outrage: its ethics statement claimed that the fossil had been lawfully exported and subsequently become property of the state of Baden-Württemberg. Under the \#IrritatorBelongstoBR, scientists and the general public, predominantly from Brazil, advocated for the return of the holotype specimen to Brazil.
 
 ## An open letter to the Minister
 

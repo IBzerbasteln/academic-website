@@ -6,7 +6,8 @@ description: Citation keys can level up reference organisation and academic writ
 tags: Obsidian Zotero Pandoc citations academic-writing
 keywords: academic-writing, obsidian, pandoc, zotero, markdown, citations, references, referencing, pkms, second-brain
 categories: PKMS
-og_image: assets/img/citekey.png
+og_image: https://paul-stewens.com/assets/img/citation-key.png
+thumbnail: assets/img/citation-key.png
 featured: false
 related_posts: false
 related_publications: false
