@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /talks/
-title: talks and conferences
+permalink: /speaking/
+title: speaking
 description:
 keywords: dinosaur-law, cultural-artifacts, paleontology, law-and-paleontology, fossil-law, restitution, repatriation, research, academic, speaker, lecture, lecturer, talk, presentation, TED, TEDx, ted-talk, conference, panel, panelist, moderator, stewens
 nav: true
 nav_order: 3
-og_image: /assets/img/tedx-gvagrad.jpg
+og_image: https://paul-stewens.com/assets/img/tedx-gvagrad.jpg
 tabs: true
 ---
 
@@ -77,7 +77,7 @@ This list contains every academic event at which I have spoken in my capacity as
       <td>Law and Palaeontology:​ Of stolen mosasaurs, copyrighted T. rexes, ​and an ambiguous dwarf goat (with Dr Jesse Hennekam)</td>
       <td>26 November 2025</td>
       <td>Maastricht University (NL)</td>
-      <td>European Law School elective "Law and Art", taught by Prof. Lars van Vliet and Dr Anna de Jong</td>
+      <td>European Law School elective "Law and Art", taught by Prof Lars van Vliet and Dr Anna de Jong</td>
     </tr>
     <tr>
       <td>Aux marges de la notion d'humanité : fossiles et restes humains</td>
@@ -192,6 +192,12 @@ This list contains every academic event at which I have spoken in my capacity as
   </thead>
   <tbody>
     <tr>
+      <td>Taming a Fuzzy Ontology: A Theory for the Law of Human Remains</td>
+      <td>14 January 2026</td>
+      <td>Maastricht University (NL)</td>
+      <td>Graduate School of Law lunch lecture series</td>
+    </tr>
+    <tr>
       <td>A Classification Unearthed: The History of Palaeontological Objects as Cultural Property in International Law</td>
       <td>7 May 2025</td>
       <td>Maastricht University (NL)</td>
@@ -226,6 +232,12 @@ This list contains every academic event at which I have spoken in my capacity as
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Temporalities and Spatialities in and beyond Law (Law and Popular Culture Roundtable VIII)</td>
+      <td>Moderator</td>
+      <td>19 June 2026</td>
+      <td>Maastricht University (NL)</td>
+    </tr>
     <tr>
       <td>Ethics of Loaning: Strengthening the Discourse on Restitution in Uganda</td>
       <td>Panelist</td>
