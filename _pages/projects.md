@@ -4,7 +4,7 @@ title: interests
 permalink: /projects-and-interests/
 description: I work on a broad range of topics surrounding the legal regulation of natural history specimens and collections.
 nav: true
-nav_order: 4
+nav_order: 5
 display_categories: [academic]
 keywords: academic, research, law, legal, palaeontology, palaeontology, fossil, dinosaur, "international law", "natural history", restitution
 horizontal: false

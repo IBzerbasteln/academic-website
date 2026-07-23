@@ -2,14 +2,11 @@
 layout: page
 title: submenus
 nav: false
-nav_order: 8
+nav_order: 
 dropdown: false
 children:
-  - title: writing
-    permalink: /writing/
-  - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: bookshelf
+    permalink: /books/
   - title: divider
   - title: blog
     permalink: /blog/

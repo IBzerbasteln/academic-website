@@ -3,7 +3,7 @@ layout: page
 permalink: /speaking/
 title: speaking
 description:
-keywords: dinosaur-law, cultural-artifacts, paleontology, law-and-paleontology, fossil-law, restitution, repatriation, research, academic, speaker, lecture, lecturer, talk, presentation, TED, TEDx, ted-talk, conference, panel, panelist, moderator, stewens
+keywords: "dinosaur law, cultural artifacts, paleontology, law and paleontology, fossil law, restitution, repatriation, research, academic, speaker, lecture, lecturer, talk, presentation, TED, TEDx, ted talk, conference, panel, panelist, moderator, stewens"
 nav: true
 nav_order: 3
 og_image: https://paul-stewens.com/assets/img/tedx-gvagrad.jpg
@@ -12,7 +12,7 @@ tabs: true
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <p>Communicating the results of my research is a cornerstone of how I understand my role as an academic. I enjoy sharing my findings, thoughts, opinions, and arguments with others: be it colleagues from the same or adjacent disciplines, researchers that work in different fields, university students, or the general public. Throughout my academic career, I've actively sought opportunities to present my work, and this page brings together some highlights with a full record of the talks and presentations I've been delivering over the years.</p>
+        <p>Communicating the results of my research is a cornerstone of how I understand my role as an academic. I enjoy sharing my findings, thoughts, opinions, and arguments with others: be it colleagues from the same or adjacent disciplines, researchers that work in different fields, <a href="/teaching/">university students</a>, or the general public. Throughout my academic career, I've actively sought opportunities to present my work, and this page brings together some highlights with a full record of the talks and presentations I've been delivering over the years.</p>
         <blockquote>
           <p>Feel free to have a look—and if you’re ever searching for a guest lecturer, speaker, or panelist, please do <a href="/contact/">reach out</a> to me!</p>
         </blockquote>
@@ -74,28 +74,10 @@ This list contains every academic event at which I have spoken in my capacity as
   </thead>
   <tbody>
     <tr>
-      <td>Law and Palaeontology:​ Of stolen mosasaurs, copyrighted T. rexes, ​and an ambiguous dwarf goat (with Dr Jesse Hennekam)</td>
-      <td>26 November 2025</td>
-      <td>Maastricht University (NL)</td>
-      <td>European Law School elective "Law and Art", taught by Prof Lars van Vliet and Dr Anna de Jong</td>
-    </tr>
-    <tr>
       <td>Aux marges de la notion d'humanité : fossiles et restes humains</td>
       <td>2 October 2025</td>
       <td>Art-Law Centre, University of Geneva (CH)</td>
       <td>Lalive Merryman Lecture 2025</td>
-    </tr>
-    <tr>
-      <td>Les contextes diverses des restes humains : exploration d'une ontologie floue</td>
-      <td>27 September 2025</td>
-      <td>University of Geneva (CH)</td>
-      <td>séminaire de recherche avancée en archéologie "Les restes humains en archéologie et anthropologie: Gestions logistiques, scientifiques, éthiques et légales", taught by Dr Claudine Abegg</td>
-    </tr>
-    <tr>
-      <td>Law in geoscience research</td>
-      <td>12 June 2025</td>
-      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg (DE)</td>
-      <td>master course "Ethics and Law in Geoscience Research" taught by Dr Emma M. Dunne</td>
     </tr>
     <tr>
       <td>A Tale of Two Museums: Introducing the Issue of Restitution to Natural History Museums</td>
@@ -109,24 +91,12 @@ This list contains every academic event at which I have spoken in my capacity as
       <td>online</td>
       <td>online colloquium "Heritage & Justice. Unpacking Legal Narratives in Natural History"</td>
     </tr>
-    <tr>
-      <td>Law in geoscience research</td>
-      <td>13 February 2024</td>
-      <td>online</td>
-      <td>master course "Ethics and Law in Geoscience Research" taught by Dr Emma M. Dunne</td>
-    </tr>
-    <tr>
-      <td>Law in geoscience research</td>
-      <td>22 June 2023</td>
-      <td>Friedrich-Alexander-Universität Erlangen-Nürnberg (DE)</td>
-      <td>master course "Ethics and Law in Geoscience Research" taught by Dr Emma M. Dunne and Dr Danijela Dimitrijevic</td>
-    </tr>
   </tbody>
 </table>
 
 {% endtab %}
 
-{% tab talks Presentations at conferences %}
+{% tab talks Conference presentations %}
 
 <table>
   <thead>
@@ -220,7 +190,7 @@ This list contains every academic event at which I have spoken in my capacity as
 
 {% endtab %}
 
-{% tab talks Panel discussions %}
+{% tab talks Panels %}
 
 <table>
   <thead>
@@ -255,6 +225,41 @@ This list contains every academic event at which I have spoken in my capacity as
       <td>Panelist</td>
       <td>4 May 2023</td>
       <td>Geneva Graduate Institute (CH)</td>
+    </tr>
+  </tbody>
+</table>
+
+{% endtab %}
+
+{% tab talks Outreach %}
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Platform</th>
+      <th>Date</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Archaeology or Grave Robbing? Who gets to do what with human remains and why</td>
+      <td>Pint of Science Netherlands (Maastricht)</td>
+      <td>20 May 2026</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Who Owns the Dead? Fossils, Human Remains & the Law</td>
+      <td>The Resurrectionists Podcast</td>
+      <td>5 January 2026</td>
+      <td><a href="https://www.youtube.com/watch?v=krf2rtsYcvs&pp=ygUacGF1bCBzdGV3ZW5zIGh1bWFuIHJlbWFpbnM%3D">Link</a></td>
+    </tr>
+    <tr>
+      <td>Your Favourite Dinosaur Might Be Stolen</td>
+      <td>2023 TED<sup>x</sup>GVAGrad conference</td>
+      <td>25 March 2023</td>
+      <td><a href="https://www.youtube.com/watch?v=pVf-5-Jl41s">Link</a></td>
     </tr>
   </tbody>
 </table>
