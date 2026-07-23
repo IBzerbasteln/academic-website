@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
+keywords: "academic, lecturer, professor, law, paleontology, law, cultural heritage, art law, cultural property, summer school, lecture, tutorial, course, teacher"
 nav: true
 nav_order: 4
+collection: teachings
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I teach in different capacities in higher education which range from tutorials for law undergraduates over bachelor thesis supervision to specialised guest lectures for master's students in archaeology or palaeobiology. If you're interested in collaborating with me for an educational project, please [reach out](mailto:paul.stewens@pm.me) !
 
-Organize your courses by years, topics, or universities, however you like!
+
+
+{% include courses.liquid %}

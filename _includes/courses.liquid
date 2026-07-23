@@ -1,0 +1,44 @@
+{% if site.teachings %}
+  <div class="courses">
+    {% assign courses_by_type = site.teachings |  group_by: 'type' %}
+    
+    {% for type_group in courses_by_type %}
+      <h2 class="year">{{ type_group.name }}</h2>
+      <div class="course-list">
+        {% assign type_courses = type_group.items | sort: 'term' %}
+        {% for course in type_courses %}
+          <div class="course-item">
+            <h4 class="course-title" style="color:var(--global-theme-color);font-variant: small-caps">
+              {{ course.title }}
+            </h4>
+
+            <div class="course-meta">
+              {% if course.location %}
+                <span class="course-term">{{ course.location }}</span>
+              {% endif %}
+
+              {% if course.instructor %}
+                <span class="course-instructor">{{ course.instructor }}</span>
+              {% endif %}
+
+            </div>
+
+            <div class="course-meta">
+              {% if course.lecture-title %}
+                <span class="course-lecture-title">“{{ course.lecture-title }}”</span>
+              {% endif %}
+            </div>
+
+            {% if course.description %}
+              <div class="course-description">
+                {{ course.description | markdownify }}
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No courses available yet.</p>
+{% endif %}
