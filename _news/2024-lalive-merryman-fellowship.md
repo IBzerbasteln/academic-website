@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Winner of the 2024 Lalive Merryman Fellowship
 date: 2025-01-17 15:11:23+0100
 inline: false
+title: "Winner of the 2024 Lalive Merryman Fellowship"
 related_posts: false
-keywords: art law, cultural property law, lalive, merryman, fellowship, geneva
+keywords: "art law, cultural property law, lalive, merryman, fellowship, geneva"
 description: Paul Stewens has been awarded the 2024 Pierre Lalive and John Henry Merryman Fellowship in Art and Cultural Heritage Law.
 ---
 
