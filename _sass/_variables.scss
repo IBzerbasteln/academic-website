@@ -33,8 +33,8 @@ $sunflower-mango-color: #ffb703 !default;
 $cheesus-color: #ffce77 !default;
 
 $grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #121212; /* used to be #1c1c1d */
+$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
+$grey-color-dark: #121212 !default; /* used to be #1c1c1d */
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
@@ -49,9 +49,6 @@ $code-bg-color-dark: #1e1e1e !default; /* used to be #2c3237 */
 // Font awesome location
 $fa-font-path: "../webfonts";
 
-// Tabler icons location
-$ti-font-path: "../fonts";
-
 // Back To Top button config
 $back-to-top-z-index: 10;
 $back-to-top-bottom: 30px;
@@ -59,3 +56,4 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+$max-content-width: 930px !default
