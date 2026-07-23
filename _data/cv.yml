@@ -1,97 +1,392 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+cv:
+  name: Paul Stewens
+  label: Researcher
+  email: paul.stewens@pm.me
+  location: Maastricht, The Netherlands
+  summary: Paul P. Stewens is a doctoral candidate at the UNESCO Chair in Cultural Heritage and Emerging Crime (Dr Donna Yates) within the Faculty of Law at Maastricht University. His dissertation focuses on the regulation of natural history objects such as fossils, amber, meteorites, and human remains and explores how their ambiguity challenges legal classification. As one of the few experts in the field of law and natural history, his interdisciplinary work has appeared in both science and law journals. His research has also been featured in _Science_, _The Economist_, *CNN*, and *The Guardian*. He holds a Master in International Law from the Geneva Graduate Institute of International and Development Studies and has been actively involved in several high-profile fossil restitution controversies.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  sections:
+    Education:
+      - institution: Maastricht University, Faculty of Law
+        location: Maastricht, Netherlands
+        url: https://www.maastrichtuniversity.nl/pp-stewens
+        area: Law
+        studyType: PhD
+        startDate: 2025-01-01
+        endDate: 2028-12-31 (expected)
+        highlights:
+          - structured PhD programme within the Maastricht Graduate School of Law
+          - "tentative dissertation title: *Bones of Contention, Stones of Contention: Mapping the Odd Interactions of Law with Ambiguous Substances* (Supervisors: Prof Donna Yates and Dr Agustín Parise)"
+      - institution: The Graduate Institute of International and Development Studies
+        location: Geneva, Switzerland
+        url: https://www.graduateinstitute.ch/international-law
+        area: International Law
+        studyType: Master in International Law
+        startDate: 2022-09-01
+        endDate: 2024-09-01
+        highlights:
+          - two-year programme at a bilingual institution
+          - "dissertation: *What’s In A Name: Legal Systems in Biological Nomenclature* (Supervisor: Prof Nico Krisch)"
+          - "final grade: 5.78/6.00"
+      - institution: Technische Universität Dresden, Center for International Studies
+        location: Dresden, Germany
+        url: https://tu-dresden.de/zis
+        area: International Relations
+        studyType: Bachelor of Arts
+        startDate: 2018-10-01
+        endDate: 2022-09-01
+        highlights:
+          - competitive interdisciplinary programme
+          - "final grade: 1.3/1.0"
+          - "dissertation: *Pardoning War Criminals: The Trump Administration, the Duty to Prosecute, and the Duty to Protect Human Rights* (Supervisor: Prof Dominik Steiger)"
+      - institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+        location: Erlangen, Germany
+        url: https://www.fau.de/
+        area: Political Science and Public Law
+        studyType: Bachelor of Arts (unfinished)
+        startDate: 2017-10-01
+        endDate: 2018-09-01
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    Experience:
+      - name: Maastricht University – UNESCO Chair in Cultural Heritage and Emerging Crime
+        position: PhD Researcher
+        url: https://www.maastrichtuniversity.nl/pp-stewens
+        startDate: 2025-01-01
+        endDate: Present
+        highlights:
+          - teaching with in the Department of Criminal Law and Criminology
+          - supervision of undergraduate theses
+          - attendance of trainings and workshops
+      - name: University of Geneva – Art-Law Centre
+        position: Lalive Merryman Fellow in Art and Cultural Property Law
+        url: https://art-law.org/recherche/lalivemerryman
+        startDate: 2025-09-22
+        endDate: 2025-10-17
+        summary: Four-week research stay as part of the Pierre Lalive and John H. Merryman Fellowship in Art and Cultural Property Law
+        highlights:
+          - research on hominin fossils
+          - two public lectures in French
+          - networking with local researchers in law, archaeology, and palaeontology
+      - name: Canvas Art Law
+        position: Researcher
+        url: https://www.canvasartlaw.co.uk/
+        startDate: 2023-07-01
+        endDate: 2023-09-01
+        summary: Research and policy work on natural history objects, conservation, and human remains.
+      - name: University of Erfurt – Assistant Professorship of Public International Law and International Administrative Law
+        position: Grading Assistant
+        url: https://www.uni-erfurt.de/en/faculty-of-economics-law-and-social-sciences/fields-of-study/law/administrative-law-and-public-international-law
+        startDate: 2023-07-01
+        endDate: 2024-08-01
+        summary: Grading exams and papers for courses in International Law and Introduction to Legal Research in Public Law using Wiseflow software.
+      - name: University of Maastricht – Maastricht Centre for Arts and Culture, Conservation and Heritage
+        position: Visiting Researcher
+        url: https://www.maastrichtuniversity.nl/news/introducing-guest-researcher-paul-p-stewens
+        startDate: 2022-05-01
+        endDate: 2022-07-01
+        highlights:
+          - shadowed Donna Yates (Associate Professor of Criminology)
+          - prepared research articles for peer review
+          - attended academic events and meetings
+          - presented original research to the Department
+      - name: Tallinn University of Technology – Department of Geology
+        position: Intern
+        url: https://taltech.ee/en/department-geology
+        startDate: 2022-02-01
+        endDate: 2022-03-01
+        summary: Assisted the curator of Estonia’s largest geological collection with the handling, preparation, and international movement of palaeontological specimens.
+      - name: The Palaeontological Association
+        position: Focus Group Member
+        url: https://www.palaeontologicalassociation.org
+        startDate: 2021-11-01
+        endDate: 2021-12-01
+        summary: Participated in an expert-led group to identify issues in fossil theft and proposed solutions for a workshop on "Social Justice in Palaeontology."
+      - name: Ruhr University Bochum – Institute for International Law of Peace and Armed Conflict
+        position: Intern
+        url: https://www.ifhv.de/
+        startDate: 2021-04-01
+        endDate: 2021-06-01
+        summary: Provided editing support for international law journals and conducted literature research for resident researchers.
+      - name: Technische Universität Dresden – Chair for International Law, European Law and Public Law
+        position: Student Research Assistant
+        url: https://tu-dresden.de/gsw/phil/irget/jfoeffl9
+        startDate: 2019-07-01
+        endDate: 2021-12-01
+        summary: Assisted research activities, prepared course materials, and contributed to teaching and administrative tasks at the Chair.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    Awards:
+      - title: 2024 Pierre Lalive and John Henry Merryman Fellowship in Art and Cultural Heritage Law
+        date: 2024-11-08
+        awarder: International Cultural Property Society, Art-Law Centre of the University of Geneva, and LALIVE Geneva
+        url: https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/2024-pierre-lalive-and-john-henry-merryman-fellowship-in-art-and-cultural-heritage-law/6BF63273C68EA58376DC719210AE549B#article
+        summary: "Fellowship valued at CHF 6,000 for a research stay at the University of Geneva, awarded for my paper 'Ubirajara' *and* Irritator *Belong to Brazil: Achieving Fossil Returns under German Private Law*"
+      - title: "Paper of the Month of Cambridge University Press - History, Classics and Archaeology"
+        date: 2024-04-22
+        awarder: Cambridge University Press
+        url: https://www.facebook.com/permalink.php?story_fbid=872069814963176&id=377904957447
+        summary: "Awarded for my paper 'Ubirajara' *and* Irritator *Belong to Brazil: Achieving Fossil Returns under German Private Law*"
+      - title: First Prize at the Third Edition of the International Symposium on Cultural Heritage in War and Peace
+        date: 2024-01-19
+        awarder: Third International Symposium on Cultural Heritage in War and Peace
+        url: https://www.linkedin.com/posts/paul-stewens_exciting-news-everyone-last-week-i-got-activity-7156248926197587968-25RB?
+        summary: "Awarded for my manuscript *A Classification Unearthed: The History of Palaeontological Objects as Cultural Heritage in International Law*, in recognition of an 'innovative profile of research, outstanding presentation and excellent content.'"
+      - title: ERASMUS+ Scholarship
+        date: 2022-07-11
+        awarder: LEONARDO Büro Sachsen
+        url: https://www.leo.tu-dresden.de/
+        summary: Financial support for a research internship at Maastricht University.
+      - title: Scholarship for going abroad to Eastern Europe
+        date: 2020-05-20
+        awarder: "<i>Metropolen in Osteuropa</i> programme (German National Academic Foundation and Alfried Krupp von Bohlen und Halbach Foundation)"
+        url: https://www.studienstiftung.de/stipendienprogramme/metropolen-in-mittel-suedosteuropa-und-osteuropa
+        summary: Financial support for an exchange semester and internship in Eastern Europe.
+      - title: Full Scholarship by the German National Academic Foundation
+        date: 2017-09-25
+        awarder: Studienstiftung des deutschen Volkes
+        url: https://www.studienstiftung.de
+        summary: Full scholarship including financial and ideational support for the entire duration of my studies.
+      - title: First Prize in the German National Foreign Language Competition
+        date: 2017-09-25
+        awarder: Bildung und Begabung
+        url: https://www.bundeswettbewerb-fremdsprachen.de/solo-plus
+        summary: Awarded first prize in the German National Foreign Language Competition with English, Spanish, French, and Latin; subsequent acceptance into the German National Academic Foundation.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    Skills:
+      - name: Research
+        icon: fa-solid fa-book
+        keywords:
+          - academic writing
+          - literature research
+          - jurisdiction-specific desk-research
+      - name: Public Speaking
+        icon: fa-regular fa-comment
+        keywords:
+          - conference presentations
+          - public lectures
+          - panel discussions
+          - podcast appearances 
+      - name: Knowledge Management
+        icon: fa-solid fa-circle-nodes
+        keywords:
+          - personal knowledge management systems
+          - academic workflows
+          - note-taking
+          - Obsidian
+      - name: Teaching
+        icon: fa-solid fa-chalkboard-user
+        keywords: 
+          - lectures
+          - tutorials
+          - undergraduate
+          - graduate
+          - thesis supervision
+      - name: Reference Managers
+        icon: fa-solid fa-book-bookmark
+        keywords:
+          - Zotero
+          - Citavi
+      - name: Microsoft Office
+        icon: fa-brands fa-microsoft
+        keywords:
+          - Microsoft Word
+          - Microsoft Powerpoint
+          - Microsoft Teams
+          - Microsoft Outlook
+          - Microsoft Excel
+      - name: Web Development
+        level: elementary 
+        icon: fa-solid fa-cloud
+        keywords:
+          - HTML
+          - CSS
+          - Jekyll  
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    Languages:
+      - language: German
+        fluency: Native
+        icon: fa-solid fa-language
+      - language: English
+        fluency: C2
+        icon: fa-solid fa-language
+      - language: Spanish
+        fluency: C1
+        icon: fa-solid fa-language
+      - language: French
+        fluency: C1
+        icon: fa-solid fa-language
+      - language: Dutch
+        fluency: A2
+        icon: fa-solid fa-language
+      - language: Italian
+        fluency: A2
+        icon: fa-solid fa-language
+      - language: Russian
+        fluency: A2
+        icon: fa-solid fa-language
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    Publications:
+      - title: "The Legal Classification of Hominin Fossils: Lessons from the Broken Hill Skull"
+        authors:
+          - Stewens, Paul P.
+        publisher: International Journal of Heritage Studies
+        releaseDate: 2026-05
+        url: https://doi.org/10.1080/13527258.2026.2673358
+        summary: This article explores the legal classification of hominin fossils, arguing they should be repatriated as cultural objects under international law.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+      - title: "A Tale of Two Museums: Restitution and the Genealogy of the False Dichotomy between Natural History Museums and Cultural Museums"
+        authors:
+          - Stewens, Paul P.
+        publisher: International Journal of Cultural Policy
+        releaseDate: 2026-04
+        url: https://doi.org/10.1080/10286632.2026.2653066
+        summary: This article examines the disconnect between cultural and natural history museums regarding restitution, tracing the genealogy of museum diversification.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      - title: "Seizure without Restitution: Antiquities Dealer Leonardo Patterson’s Collection before the Munich Administrative Court"
+        authors:
+          - Stewens, Paul P.
+          - Yates, Donna
+        publisher: Harvard Art Law Review
+        releaseDate: 2026-04-08
+        url: https://orgs.law.harvard.edu/halo/files/2026/04/HALR-Vol.-II.pdf
+        summary: This article discusses court cases surrounding the seizure of antiquities from Leonardo Patterson’s collection in Bavaria.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - title: Foreign Sovereign Immunity in Exequatur Proceedings – Notes on the Hague District Court’s Decision of 5 June 2025
+        authors:
+          - Solaro, Livia
+          - Stewens, Paul P.
+        publisher: Cuadernos de Derecho Transnacional
+        releaseDate: 2026-03-26
+        url: https://doi.org/10.20318/cdt.2026.10299
+        summary: The District Court of The Hague refused to recognise and enforce a Ukrainian ruling against Gazprom on foreign sovereign immunity grounds, highlighting the interplay between private and public international law.
+
+      - title: Not a Toothless Law. Countering Illicit Fossil Trafficking under Regulation (EU) 2019/880
+        authors:
+          - Stewens, Paul P.
+        publisher: transfer – Zeitschrift für Provenienzforschung und Sammlungsgeschichte | Journal for Provenance Research and the History of Collection
+        releaseDate: 2025-12-12
+        url: https://doi.org/10.48640/tf.2025.1.113827
+        summary: This case study analyzes a French customs seizure of Moroccan fossils, evaluating the legal framework under EU Regulation 2019/880.
+
+      - title: "A Classification Unearthed: The History of Palaeontological Objects as Cultural Property in International Law"
+        authors:
+          - Stewens, Paul P.
+        publisher: London Review of International Law
+        releaseDate: 2025-10-27
+        url: https://doi.org/10.1093/lril/lraf02
+        summary: This article traces how fossils became protected as cultural property under international law under the auspices of the League of Nations.
+
+      - title: "My Genocide, My Responsibility -- <i>The 100</i>’s Massacre at Mount Weather and International Criminal Law"
+        authors:
+          - Stewens, Paul P.
+        publisher: Opinio Juris
+        releaseDate: 2024-10-29
+        url: https://opiniojuris.org/2024/10/29/fourth-annual-symposium-on-pop-culture-and-international-law-my-genocide-my-responsibility-the-100s-massacre-at-mount-weather-and-international-criminal-law/
+        summary: This blog post explores the depiction of genocide and international criminal law in the TV series *The 100*.
+
+      - title: "Law Will Find A Way: Legal Research at the Intersection with Palaeontology"
+        authors:
+          - Stewens, Paul P.
+          - Raja, Nussaïbah B.
+          - Dunne, Emma M.
+        publisher: "Interaktionen: Internationalität, Intra- Und Interdisziplinarität 63. Junge Tagung Öffentliches Recht"
+        releaseDate: 2024-02
+        url: https://doi.org/10.5771/9783748942733-343
+        summary: This book chapter outlines Law and Palaeontology as a field addressing legal issues related to fossils and emphasises both the need for and potential of interdisciplinary collaboration.
+
+      - title: "'<i>Ubirajara</i>' and <i>Irritator</i> Belong to Brazil: Achieving Fossil Returns Under German Private Law"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: International Journal of Cultural Property
+        releaseDate: 2023-03
+        url: https://doi.org/10.1017/S0940739124000031
+        summary: This article explores private law as an alternative to repatriate unlawfully exported Brazilian fossils from German museums.
+
+      - title: The Return of Fossils Removed Under Colonial Rule
+        authors:
+          - Stewens, Paul P.
+          - Raja, Nussaïbah B.
+          - Dunne, Emma M.
+        publisher: Santander Art and Culture Law Review
+        releaseDate: 2022-12
+        url: https://doi.org/10.4467/2450050XSNR.22.013.17026
+        summary: This article examines the colonial removal of fossils and potential avenues for their return under public international law and international human rights law.
+
+      - title: "Reparation for Injuries Suffered in the Service of the Rescue Aid Society: Imagining the UN Through Disney’s <i>The Rescuers</i>"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: Opinio Juris
+        releaseDate: 2022-10-27
+        url: http://opiniojuris.org/2022/10/27/reparation-for-injuries-suffered-in-the-service-of-the-rescue-aid-society-imagining-the-un-through-disneys-the-rescuers/
+        summary: This blog post uses Disney’s *The Rescuers* to discuss popular perceptions of international organizations.
+
+      - title: "Pardoning War Criminals: The Trump Administration, the Duty to Prosecute, and the Duty to Protect Human Rights"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: IFHV Working Paper Series
+        releaseDate: 2022-10-27
+        url: https://doi.org/10.17176/20220924-202930-0
+        summary: This working paper assesses Trump’s pardons for war criminals against the duty to prosecute grave violations of international humanitarian law.
+
+      - title: "Ethics, Law, and Politics in Palaeontological Research: The Case of Myanmar Amber"
+        authors:
+          - Dunne, Emma M.
+          - Raja, Nussaïbah B.
+          - Stewens, Paul Philipp
+          - Zin-Maung-Maung-Thein
+          - Zaw, Khin
+        publisher: Communications Biology
+        releaseDate: 2022-09
+        url: https://doi.org/10.1038/s42003-022-03847-2
+        summary: This article highlights how Myanmar amber research is linked to political, legal, and economic changes.
+
+      - title: "Two Ways of Thinking About Fossils: Palaeontological Objects Between Fossil Nationalism and Fossil Internationalism"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: Völkerrechtsblog
+        releaseDate: 2022-03
+        url: https://doi.org/10.17176/20220331-130937-0
+        summary: This blog post discusses the dual perspectives of fossil nationalism and fossil internationalism in legal and ethical debates.
+
+      - title: "Billigkeit, Sittlichkeit, Menschlichkeit: Versuch einer Kritik der Generalklauseln im Völkerrecht"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: Studentische Zeitschrift für Rechtswissenschaft Heidelberg -- Wissenschaft Online
+        releaseDate: 2022-01
+        url: https://doi.org/10.11588/SRZWO.2021.2.85612
+        summary: This article critiques the politicization of law through general clauses in international law, applying Franz Neumann’s criticism.
+
+      - title: "Is Your Dating App Swiping Left on Human Rights?"
+        authors:
+          - Katsoni, Spyridoula
+          - Stewens, Paul Philipp
+        publisher: Völkerrechtsblog
+        releaseDate: 2021-12-01
+        url: https://doi.org/10.17176/20211201-210752-0
+        summary: This blog post examines how dating apps’ algorithms and policies may facilitate sexual and gender-based violence or violate privacy rights.
+
+      - title: The Moral and Legal Imperative to Return Illegally Exported Fossils
+        authors:
+          - Cisneros, Juan C.
+          - Ghilardi, Aline M.
+          - Raja, Nussaïbah B.
+          - Stewens, Paul P.
+        publisher: Nature Ecology & Evolution
+        releaseDate: 2021-11
+        url: https://doi.org/10.1038/s41559-021-01588-9
+        summary: This article argues for the return of illegally exported fossils, highlighting their scientific and cultural value.
+
+      - title: "Burmese Amber: Palaeontology’s Blood Diamonds Through the Lens of International Law"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: Völkerrechtsblog
+        releaseDate: 2021-06-24
+        url: https://doi.org/10.17176/20210624-192927-0
+        summary: This blog post compares Burmese amber to blood diamonds, discussing ethical and legal challenges in its trade.
+
+      - title: "Now or Never: The Arms Trade Treaty at Crossroads"
+        authors:
+          - Stewens, Paul Philipp
+        publisher: Völkerrechtsblog
+        releaseDate: 2021-05-14
+        url: https://doi.org/10.17176/20210514-090715-0
+        summary: This blog post assesses the Arms Trade Treaty’s successes, challenges, and the urgent need to strengthen its implementation.
