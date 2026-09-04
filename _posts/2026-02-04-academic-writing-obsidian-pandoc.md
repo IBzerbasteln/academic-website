@@ -4,7 +4,7 @@ title: The definitive guide to academic writing with Obsidian and Pandoc
 date: 2026-02-02
 description: Write your manuscripts where you have all your notes, generate fully referenced papers from them and leave Microsoft Word for good.
 tags: academic-writing Pandoc Obsidian
-keywords: guide, tutorial, academic-writing, obsidian, pandoc, conversion, markdown, csl, citation-style, vs-code, bibliography, citations, referencing, microsoft-word, microsoft-office, conversion, degoogling
+keywords: "guide, tutorial, academic writing, obsidian, pandoc, conversion, markdown, csl, citation style, vs code, bibliography, citations, referencing, microsoft word, microsoft office, degoogling, academic writing, pandoc, markdown, citation management, bibliography, csl, citation style, zotero, endnote, mendeley, reference manager, citation processor, bib file, csl file, manuscript writing, research workflow, PKMS, note taking, academic references, citation keys, pandoc conversion, docx, pdf, CLI, command line interface, single source of truth, markdown citations, academic formatting, templates, reference documents, custom styles, Obsidian Citations Plugin, BetterBibTeX, writing environment, manuscript conversion, academic publishing, degoogling, microsoft word alternative, LaTeX, research tools, writing workflow, academic productivity"
 categories: PKMS
 og_image: https://paul-stewens.com/assets/img/obsidian-pandoc-word.png
 thumbnail: assets/img/obsidian-pandoc-word.png
@@ -21,7 +21,7 @@ toc:
 
 > The principal functionality of Obsidian is taking notes and linking them. However, note-taking is often not an end in itself. Many researchers take notes to later use or build on them in the preparation of an article or another written output (books, blog posts, working papers and so on). If you're taking notes to produce an output, it only makes sense to produce the output in the same ecosystem. **If you're taking notes in Obsidian to write a paper, why not write the paper with Obsidian as well?**
 
-This guide covers the ins and outs of academic writing with Obsidian and Pandoc. In particular, you'll learn how to:
+This guide is a spin-off from my self-study module on how to use Obsidian as a researcher (available via [GitHub](https://github.com/IBzerbasteln/obsidian-for-research)) and covers the ins and outs of academic writing with Obsidian and Pandoc. In particular, you'll learn how to:
 
 - set up an academic writing environment in Obsidian;
 - prepare an academic manuscript in Markdown format; and
@@ -219,5 +219,7 @@ There are a few things to look out for when using Pandoc to covert Markdown file
 ## Concluding thoughts
 
 With the information in this gudie, you should be able to get started with academic writing using Obsidian and Pandoc. Still, it only covers a tiny fraction of the functionality which Pandoc offers, and it is recommended to consult the [documentation](https://pandoc.org/MANUAL.html) in the case of question about this guide or out of curiosity about what else is possible. There is, admittedly, a bit of a learning curve to this style of academic writing. However, once using a standardised terminal command to convert a Markdown manuscript to a fully referenced, spotlessly formatted Microsoft Word document becomes a routine (which happens sooner than you think), the benefits clearly outweigh the investment into learning how to use this new setup.
+
+And if you found these instructions helpful, there's plenty more where those came from---check my self-study module over on [GitHub](https://github.com/IBzerbasteln/obsidian-for-research) for more instructions and tasks on how to make most of Obsidian as a researcher!
 
 ---
